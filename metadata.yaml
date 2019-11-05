@@ -1,11 +1,16 @@
 _repo: The-Fireless-Cook-Book-A-Manual-of-the-Construction-and-Use-of-Appliances-for-Cooking-by-Reta__60598
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60598-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Mitchell, Margaret Johnes
     gutenberg_agent_id: '51044'
     url: http://www.gutenberg.org/2009/agents/51044
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60598#The-Fireless-Cook-Book-A-Manual-of-the-Construction-and-Use-of-Appliances-for-Cooking-by-Reta_
 gutenberg_issued: '2019-10-30'
 gutenberg_type: Text
 identifiers:
